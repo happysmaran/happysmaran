@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hey there! I'm Smaran 👋</h1>
-  <h3>First-year @ Olin College of Engineering</h3>
+  <h3>First Year, Engineering in Computing Student @ Olin College of Engineering</h3>
   <p>Building scalable systems • AI/LLM pipelines • symbolic math tools • retro audio apps • high-security paranoid Linux setups</p>
   <p>Passionate about full-stack, backend architecture, RAG/ML workflows, competitive programming (ICPC), and turning random ideas into real code.</p>
 </div>
@@ -10,8 +10,8 @@
 </div>
 
 ### 🚀 What I'm Working On
-- **[ClassicTunes](https://github.com/happysmaran/ClassicTunes)** — Reviving iTunes 7–10 vibes as a native macOS player (Swift + SwiftUI + Metal + GitHub Copilot Assistance)
-- **[CLOS](https://github.com/happysmaran/CLOS)** — Recursive symbolic math engine with autodiff, graphing, CLI + GUI (Java + HTML + CSS + C++)
+- **[ClassicTunes](https://github.com/happysmaran/ClassicTunes)** — Reviving iTunes 7–10 vibes as a native Apple Silicon macOS player (Swift + SwiftUI + Metal + GitHub Copilot Assistance)
+- **[CLOS](https://github.com/happysmaran/CLOS)** — Recursive symbolic math engine with autodiff, graphing, solving, CLI + GUI (Java + HTML + CSS + C++)
 - **[Whoa-Scope](https://github.com/rivques/whoa-scope)** — Modernized oscilloscope for hardware labs (Python + Kivy)
 - **[MouseSteering](https://github.com/happysmaran/MouseSteering)** — Mouse → virtual joystick for sim racing (C# + .NET)
 - **[OuroborOS](https://github.com/happysmaran/OuroborOS)** — Ephemeral, self-monitoring paranoid Linux env (C + Shell)
