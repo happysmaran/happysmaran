@@ -10,17 +10,17 @@
 </div>
 
 ### 🚀 What I'm Working On
-- **[ClassicTunes](https://github.com/happysmaran/ClassicTunes)** — Reviving iTunes 7–10 vibes as a native Apple Silicon macOS player (Swift + SwiftUI + Metal + GitHub Copilot Assistance)
-- **[CLOS](https://github.com/happysmaran/CLOS)** — Recursive symbolic math engine with autodiff, graphing, solving, CLI + GUI (Java + HTML + CSS + C++)
+- **[ClassicTunes](https://smaran-vallabhaneni.com/ClassicTunes)** — Reviving iTunes 7–10 vibes as a native Apple Silicon macOS player (Swift + SwiftUI + Metal + GitHub Copilot Assistance)
+- **[CLOS](https://smaran-vallabhaneni.com/CLOS)** — Recursive symbolic math engine with autodiff, graphing, solving, CLI + GUI (Java + HTML + CSS + C++)
 - **[Whoa-Scope](https://github.com/rivques/whoa-scope)** — Modernized oscilloscope for hardware labs (Python + Kivy)
 - **[MouseSteering](https://github.com/happysmaran/MouseSteering)** — Mouse → virtual joystick for sim racing (C# + .NET)
 - **[OuroborOS](https://github.com/happysmaran/OuroborOS)** — Ephemeral, self-monitoring paranoid Linux env (C + Shell)
 
-More projects + details → [happysmaran.github.io](https://happysmaran.github.io/)
+More projects + details → [smaran-vallabhaneni.com](https://smaran-vallabhaneni.com/)
 
 ### 📄 Quick Links
-- [Full Portfolio](https://happysmaran.github.io/)
-- [Resume (PDF)](https://happysmaran.github.io/Smaran_Vallabhaneni_Resume.pdf)
+- [Full Portfolio](https://smaran-vallabhaneni.com/)
+- [Resume (PDF)](https://smaran-vallabhaneni.com/Smaran_Vallabhaneni_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/smaran-vallabhaneni/)
 
 ### 🛠️ Tech Stack Highlights
