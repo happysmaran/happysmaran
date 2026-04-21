@@ -13,6 +13,7 @@
 - **[ClassicTunes](https://smaran-vallabhaneni.com/ClassicTunes)** — Reviving iTunes 7–10 vibes as a native Apple Silicon macOS player (Swift + SwiftUI + Metal + GitHub Copilot Assistance)
 - **[CLOS](https://smaran-vallabhaneni.com/CLOS)** — Recursive symbolic math engine with autodiff, graphing, solving, CLI + GUI (Java + HTML + CSS + C++)
 - **[Whoa-Scope](https://github.com/rivques/whoa-scope)** — Modernized oscilloscope for hardware labs (Python + Kivy)
+- **[3D Gesture Tracking](https://github.com/happysmaran/3D-Gesture-Tracking)** — Hand tracking utility to control Blender 3D Viewport (Python + OpenCV + MediaPipe)
 - **[MouseSteering](https://github.com/happysmaran/MouseSteering)** — Mouse → virtual joystick for sim racing (C# + .NET)
 - **[OuroborOS](https://github.com/happysmaran/OuroborOS)** — Ephemeral, self-monitoring paranoid Linux env (C + Shell)
 
