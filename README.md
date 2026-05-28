@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hey there! I'm Smaran 👋</h1>
-  <h3>First Year, Engineering in Computing Student @ Olin College of Engineering</h3>
+  <h3>Engineering in Computing Student @ Olin College of Engineering</h3>
   <p>Building scalable systems • AI/LLM pipelines • symbolic math tools • retro audio apps • high-security paranoid Linux setups</p>
   <p>Passionate about full-stack, backend architecture, RAG/ML workflows, competitive programming (ICPC), and turning random ideas into real code.</p>
 </div>
