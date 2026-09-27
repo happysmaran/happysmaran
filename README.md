@@ -12,6 +12,7 @@
 ## 🚀 What I'm Working On
 - **[CLOS](https://closapp.org)** — Offline math utility with autodiff, graphing, equation solving, simulation, CLI + GUI capable of doing just about anything (Java + HTML + CSS + C++ + Java)
 - **[W.A.G.E](https://github.com/happysmaran/W.A.G.E)** — Local-first AI job search strategy tool (React + Typescript/Tailwind + Python + FastAPI)
+- **[ClassicTunes](https://smaran-vallabhaneni.com/ClassicTunes)** — Reviving iTunes 7–10 vibes as a native Apple Silicon macOS player (Swift + SwiftUI + Metal + Claude Assistance)
 - **[Specter](https://github.com/happysmaran/Specter)** — Local Wayland-based AI agent assistant for your PC (Python + Ollama + Linux)
 - **[OSM2Mesh](https://github.com/happysmaran/OSM2Mesh)** — Map to game-ready 3D city model generator with full texturing (Python + OpenStreetMap + Tkinter)
 - **[3D Gesture Tracking](https://smaran-vallabhaneni.com/3D-Gesture-Tracking)** — Hand tracking utility to control Blender 3D Viewport (Python + OpenCV + MediaPipe)
