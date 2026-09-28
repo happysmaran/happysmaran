@@ -9,6 +9,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=happysmaran&theme=transparent&hide_border=true" alt="streak stats" />
 </div>
 
+## Highlights
+- **CLOS**: founded and led since 2023, ~1,500 weekly active users, with 8 subsystems built from scratch (custom DB engine, symbolic math parser, 3D renderer, matrix library, and more)
+- **Olin AERO**: software lead for a 5-engineer team building the full autonomy stack for an sUAS drone. Previously built a ground station holding stable 20 FPS telemetry at 10-mile range with sub-100ms latency.
+- **ICPC**: team member, focused on data structures and graph/DP/flow algorithms
+
 ## 🚀 What I'm Working On
 - **[CLOS](https://closapp.org)** — Offline math utility with autodiff, graphing, equation solving, simulation, CLI + GUI capable of doing just about anything (Java + HTML + CSS + C++ + Java)
 - **[W.A.G.E](https://github.com/happysmaran/W.A.G.E)** — Local-first AI job search strategy tool (React + Typescript/Tailwind + Python + FastAPI)
